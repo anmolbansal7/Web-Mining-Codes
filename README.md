@@ -38,7 +38,8 @@
 -   Product Discount
 -   Product Image
     </i>
-    </br>
+
+</br>
 
 #### 4. Encoding Decoding
 
