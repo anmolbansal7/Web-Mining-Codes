@@ -1,0 +1,1 @@
+Web mining can widely be seen as the application of adapted data mining techniques to the web, whereas data mining is defined as the application of the algorithm to discover patterns on mostly structured data embedded into a knowledge discovery process.
