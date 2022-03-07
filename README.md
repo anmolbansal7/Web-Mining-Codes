@@ -52,9 +52,9 @@
 
 </br>
 
-#### 5.
+#### 5. Centrality and Prestige
 
-<i> Compute Term Frequency Inverse Document Frequency (TFIDF) </i>
+<i> Write a python program to find the centrality (degree, closeness and betweenness) and prestige (degree and proximity) for the given graph. </i>
 
 </br>
 
