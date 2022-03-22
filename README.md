@@ -58,32 +58,32 @@
 
 </br>
 
-#### 6.
+#### 6. Page Rank
 
 <i> Implement Page Rank algorithm </i>
 
 </br>
 
-#### 7.
+#### 7. Decision Tree
 
-<i> Implement Classification </i>
+<i> Implement Decision Tree </i>
 
 </br>
 
 #### 8.
 
-<i> Implement Clustering </i>
+<i>  </i>
 
 </br>
 
 #### 9.
 
-<i> Implement Apriori Algorithm on web log data </i>
+<i>  </i>
 
 </br>
 
 #### 10.
 
-<i> Program for Query Processing and Analysis <i>
+<i>  <i>
 
 </br>
