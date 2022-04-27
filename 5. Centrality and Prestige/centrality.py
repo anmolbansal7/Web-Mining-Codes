@@ -123,30 +123,3 @@ for i in proxP.keys():
    
 print("\nProximity Prestige: \n")
 print(proxP)
-
-
-
-        
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-

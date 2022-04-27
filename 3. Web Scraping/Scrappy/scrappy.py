@@ -28,4 +28,3 @@ class BrickSetSpider(scrapy.Spider):
             df['image'] = data['image']
             df['discount'] = df['price'].astype(int) - df['finalprice'].astype(int)
             print(df)
-            

@@ -60,30 +60,24 @@
 
 #### 6. Page Rank
 
-<i> Implement Page Rank algorithm </i>
+<i> Implement Page Rank algorithm (without Networkx)</i>
 
 </br>
 
 #### 7. Decision Tree
 
-<i> Implement Decision Tree </i>
+<i> Building a Classifier Using Decision Tree to predict the normal and anomaly users</i>
 
 </br>
 
-#### 8.
+#### 8. K Means Clustering
 
-<i>  </i>
-
-</br>
-
-#### 9.
-
-<i>  </i>
+<i> Illustrate the K Means clustering to cluster the data points for at least five epoch </i>
 
 </br>
 
-#### 10.
+#### 9. Random Forest Algorithm
 
-<i>  <i>
+<i>  Build a random forest regression and random forest classifier </i>
 
 </br>
